@@ -1,0 +1,45 @@
+
+My Life with Git: a before and after story
+Thomas C. Bourgeois
+Executive Director: Student Affairs Information Systems
+Student Affairs Systems Group
+bourgeot@email.arizona.edu
+520-621-0604
+
+A Meta-Project Note
+
+Git is a Versioning System
+* what that is
+
+
+My Pre-Git Versioning System
+
+The Problem Git Solves
+
+How Git Solves the problem
+
+
+Details: Everythign is local
+
+
+Branching and Merging
+
+
+The stages: Modified, Staged, Committed
+
+
+Point of this talk is why to invest the time
+
+Lightweightness and locality make it easy to branch and merge
+
+brancing and merging supports easy scenario testing with no headache.
+
+you can run a git server for free open or closed source.
+
+Github is a git server that is free if your project is open source open to the world.
+
+git has a bidirectional bridge to interoperate with subversion called git svn...so git
+is a valid subversion client.
+
+
+http://git-scm.com/ is a great reference.
